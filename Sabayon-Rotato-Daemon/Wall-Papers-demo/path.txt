@@ -1,0 +1,9 @@
+﻿else.... more proper pathing
+
+
+/usr/share/wallpapers/Sabayon
+
+/usr/share/wallpapers/Sabayon-forensics ## for a USB works well for it ... 
+
+/usr/share/wallpapers/Sabayon-zoro
+/usr/share/wallpapers/Sabayon-Enterpise ### IE the Demo-victum 
